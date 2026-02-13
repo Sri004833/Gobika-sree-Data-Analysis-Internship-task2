@@ -3,7 +3,7 @@
 ## Exploratory Data Analysis (EDA) & Business Intelligence
 
 ### 👤 Intern Name
-Srikanth V
+Gobika Sree
 
 ### 🏢 Organization
 ApexPlanet Software Pvt. Ltd.
@@ -101,10 +101,10 @@ The findings will be used in subsequent tasks for dashboard development and deep
 ---
 
 ## 🔗 Links
-- **LinkedIn Video Submission:** [Paste Link Here]
 - **Internship Submission Portal:** ApexPlanet Internship Platform
 
 ---
 
 ⭐ *This repository is part of my Data Analytics Internship portfolio at ApexPlanet Software Pvt. Ltd.*
+
 
