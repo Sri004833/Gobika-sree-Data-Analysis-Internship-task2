@@ -1,0 +1,11 @@
+Customer_ID,Age,Gender,City,Product_Category,Purchase_Amount,Purchase_Date,Payment_Method
+C101,23,Male,Delhi,Electronics,45000,2023-01-15,Credit Card
+C102,35,Female,Mumbai,Clothing,3500,2023-01-18,UPI
+C103,29,Male,Bangalore,Electronics,62000,2023-02-02,Debit Card
+C104,42,Female,Delhi,Groceries,2400,2023-02-05,Cash
+C105,31,Female,Chennai,Clothing,5200,2023-02-12,UPI
+C106,27,Male,Mumbai,Groceries,1800,2023-02-20,Cash
+C107,38,Male,Bangalore,Furniture,32000,2023-03-01,Credit Card
+C108,45,Female,Chennai,Electronics,55000,2023-03-08,Debit Card
+C109,34,Male,Delhi,Clothing,4100,2023-03-15,UPI
+C110,26,Female,Mumbai,Groceries,2100,2023-03-20,Cash
